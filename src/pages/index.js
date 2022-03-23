@@ -4,10 +4,13 @@ import Team from "../components/Team";
 import Info from "../components/Info";
 import { Link } from "react-router-dom";
 import News from "../components/News";
+import HomePage from "./HomePage";
+
 
 export default function Home(props) {
   return (
     <div className="bg-[#1C1C28] w-full h-full font-Roboto z-10">
+      <HomePage/>
       <AboutUs />
       <Team />
       <Info />
