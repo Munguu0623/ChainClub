@@ -12,7 +12,7 @@ const CoverEffect = (props) => {
       <img src={tsegImg} className="h-32 absolute mt-24 ml-16" />
       <div className="flex">
         <Title />
-        <img src={CoverPhoto} className="h-96 md:h-512 xl:h-1080" />
+        <img src={CoverPhoto} className="h-96 mt-12 md:h-512 xl:h-1080" />
       </div>
       <img src={effectOne} className="h-80 -mt-44 2xl:-mt-80 absolute"/>
       <img src={effectTwo} className=" -mt-80 ml-512 absolute"/>

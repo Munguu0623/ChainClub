@@ -21,9 +21,7 @@ export default function AboutUs(props) {
           <div className="text-white">
             <h1 className="font-bold">Бидний тухай</h1>
             <p className="text-sm">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
-              libero tortor elementum eu lectus tellus blandit aliquet. Orci
-              rhoncus aliquet scelerisque odio. Et tempor
+           Хүрээ МХТС-ийн Мэдээллийн Технологийн тэнхимийн дэргэдэх клуб бөгөөд  Манай клубийн үйл ажиллагаа бол оюутнуудад чиглэсэн сургалт, бусад үйл ажиллагааг тогтмол зохион байгуулах юм.
             </p>
           </div>
         </div>
@@ -39,9 +37,7 @@ export default function AboutUs(props) {
           <div className="text-white">
             <h1 className="font-bold">Үнэт зүйл</h1>
             <p className="text-sm">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
-              libero tortor elementum eu lectus tellus blandit aliquet. Orci
-              rhoncus aliquet scelerisque odio. Et tempor
+            Шинэ санааг илэрхийлэх, судлах,танин мэдэх, бүтээх.Сурж мэдсэн зүйлээ бусаддаа хуваалцах, бусдаас суралцах.Mentor, menteen-тэй харилцаа холбоо.
             </p>
           </div>
         </div>
@@ -57,9 +53,7 @@ export default function AboutUs(props) {
           <div className="text-white">
             <h1 className="font-bold">Алсын хараа</h1>
             <p className="text-sm">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
-              libero tortor elementum eu lectus tellus blandit aliquet. Orci
-              rhoncus aliquet scelerisque odio. Et tempor
+            Оюутан залуусын шинжлэх ухаанч сэтгэлгээг хөгжүүлж, оюутнуудын харилцан туршлага солилцох орчинг бүрдүүлж, хаана ч өрсөлдөхүйц мэргэшсэн боловсон хүчэн болход бэлтгэгдэн гарах гүүрийн нэг байх нь клубын эрхэм зорилго юм.
             </p>
           </div>
         </div>
